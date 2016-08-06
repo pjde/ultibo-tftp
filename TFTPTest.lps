@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="13">
+      <Unit0>
+        <Filename Value="TFTPTest.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="24"/>
+        <CursorPos X="50" Y="54"/>
+        <UsageCount Value="58"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="uTFTP.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="24" Y="28"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="utftpold.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="12" Y="10"/>
+        <UsageCount Value="17"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\ultibo\core\winsock2.pas"/>
+        <UnitName Value="Winsock2"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1759"/>
+        <CursorPos X="48" Y="1773"/>
+        <UsageCount Value="17"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\ultibo\core\platform.pas"/>
+        <UnitName Value="Platform"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="1571"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\Async Client\uAsync.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="88"/>
+        <UsageCount Value="15"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\Async Client\AsyncTest.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <CursorPos Y="31"/>
+        <UsageCount Value="15"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\Libc\Test1.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="130"/>
+        <CursorPos X="58" Y="150"/>
+        <UsageCount Value="15"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\Libc\uSysCalls.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="14"/>
+        <UsageCount Value="12"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\ultibo\core\globalconst.pas"/>
+        <UnitName Value="GlobalConst"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1292"/>
+        <CursorPos X="38" Y="1490"/>
+        <UsageCount Value="12"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\ultibo\core\console.pas"/>
+        <UnitName Value="Console"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="504"/>
+        <CursorPos X="32" Y="495"/>
+        <UsageCount Value="12"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\objpas\sysutils\filutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="135"/>
+        <CursorPos X="10" Y="153"/>
+        <UsageCount Value="11"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\ultibo\core\shell.pas"/>
+        <UnitName Value="Shell"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="811"/>
+        <CursorPos Y="36"/>
+        <UsageCount Value="11"/>
+      </Unit12>
+    </Units>
+    <JumpHistory Count="25" HistoryIndex="24">
+      <Position1>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="490" Column="24" TopLine="461"/>
+      </Position1>
+      <Position2>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="102" Column="15" TopLine="128"/>
+      </Position2>
+      <Position3>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="428" Column="2" TopLine="404"/>
+      </Position3>
+      <Position4>
+        <Filename Value="uTFTP.pas"/>
+      </Position4>
+      <Position5>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="94" Column="21" TopLine="62"/>
+      </Position5>
+      <Position6>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="256" Column="10" TopLine="224"/>
+      </Position6>
+      <Position7>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="302" Column="32" TopLine="275"/>
+      </Position7>
+      <Position8>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="304" Column="8" TopLine="275"/>
+      </Position8>
+      <Position9>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="348" Column="14" TopLine="316"/>
+      </Position9>
+      <Position10>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="354" Column="30" TopLine="322"/>
+      </Position10>
+      <Position11>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="374" Column="10" TopLine="342"/>
+      </Position11>
+      <Position12>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="375" Column="10" TopLine="343"/>
+      </Position12>
+      <Position13>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="390" Column="18" TopLine="358"/>
+      </Position13>
+      <Position14>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="393" Column="24" TopLine="362"/>
+      </Position14>
+      <Position15>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="403" Column="24" TopLine="372"/>
+      </Position15>
+      <Position16>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="424" Column="20" TopLine="393"/>
+      </Position16>
+      <Position17>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="427" Column="24" TopLine="396"/>
+      </Position17>
+      <Position18>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="450" Column="20" TopLine="419"/>
+      </Position18>
+      <Position19>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="455" Column="24" TopLine="424"/>
+      </Position19>
+      <Position20>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="461" Column="28" TopLine="430"/>
+      </Position20>
+      <Position21>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="463" Column="28" TopLine="432"/>
+      </Position21>
+      <Position22>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="472" Column="32" TopLine="441"/>
+      </Position22>
+      <Position23>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="485" Column="20" TopLine="454"/>
+      </Position23>
+      <Position24>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="492" Column="28" TopLine="461"/>
+      </Position24>
+      <Position25>
+        <Filename Value="uTFTP.pas"/>
+        <Caret Line="503" Column="18" TopLine="472"/>
+      </Position25>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
