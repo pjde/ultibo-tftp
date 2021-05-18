@@ -3,7 +3,18 @@ program TFTPTest;
 {$mode objfpc}{$H+}
 
 uses
+  {$IFDEF RPI}
+  RaspberryPi,
+  {$ENDIF}
+  {$IFDEF RPI2}
+  RaspberryPi2,
+  {$ENDIF}
+  {$IFDEF RPI3}
   RaspberryPi3,
+  {$ENDIF}
+  {$IFDEF RPI4}
+  RaspberryPi4,
+  {$ENDIF}
   GlobalConfig,
   GlobalConst,
   GlobalTypes,

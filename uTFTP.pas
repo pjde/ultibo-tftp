@@ -456,7 +456,7 @@ begin
                       aTransfer.FStream.Seek (0, soFromBeginning);
                       aFile.CopyFrom (aTransfer.FStream, aTransfer.FStream.Size);
                       aFile.Free;
-                      if (aTransfer.FileName = 'kernel7.img') or (aTransfer.FileName = 'kernel.img') then
+                      if LowerCase(aTransfer.FileName) = LowerCase(ParamStr(0)) then // ParamStr(0) will always be the kernel name
                         begin
                           DoMsg ('Restarting.');
                           SystemRestart (0);
